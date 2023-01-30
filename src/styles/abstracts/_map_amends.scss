@@ -1,0 +1,11 @@
+$custom-colors: (
+    "custom-color-1" : #484F62,
+    "custom-color-2" : #B66D43,
+    "custom-color-3" : #8B97B5,
+    "custom-color-4" : #864F4F,
+    "3D3D3D": #3D3D3D,
+    "272727": #272727,
+    "C6794E": #C6794E
+);
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
