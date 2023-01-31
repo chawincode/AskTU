@@ -1,5 +1,5 @@
 {
-  "name": "next-demo",
+  "name": "AskTU",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -19,6 +19,7 @@
     "eslint-config-next": "13.1.6",
     "next": "^13.1.6",
     "react": "18.2.0",
+    "react-bootstrap": "^2.7.0",
     "react-dom": "18.2.0",
     "reactstrap": "^9.1.5",
     "sass": "^1.57.1",

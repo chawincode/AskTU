@@ -5,7 +5,8 @@ $custom-colors: (
     "custom-color-4" : #864F4F,
     "3D3D3D": #3D3D3D,
     "272727": #272727,
-    "C6794E": #C6794E
+    "C6794E": #C6794E,
+    "A2A2A2": #A2A2A2
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);

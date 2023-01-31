@@ -21,13 +21,16 @@
   font-family: 'Lexend Deca', sans-serif;
 }
 
-ul {
-  padding-top: 40px;
-  padding-left: 0;
+.d1{
+  padding-top: 3.5rem;
 }
 
 li {
   list-style-type : '';
   line-height: 3.5;
   left: 100;
+}
+
+.main-wrapper {
+  height: 100vh;  
 }
